@@ -1,1 +1,3 @@
 My content in this file `file2.txt`
+
+other content
